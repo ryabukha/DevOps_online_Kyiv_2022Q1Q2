@@ -1,0 +1,17 @@
+ab6875f HEAD@{0}: merge develop: Fast-forward
+0e11d65 HEAD@{1}: checkout: moving from develop to master
+ab6875f HEAD@{2}: commit (merge): Merge branch 'styles' into develop
+78d9498 HEAD@{3}: merge images: Fast-forward
+a9eca31 HEAD@{4}: checkout: moving from styles to develop
+17a3d2b HEAD@{5}: commit: add styles source to index.html
+c2bcc0d HEAD@{6}: commit: add styles.css
+a9eca31 HEAD@{7}: reset: moving to HEAD~
+9a5850f HEAD@{8}: commit: add styles.css
+a9eca31 HEAD@{9}: checkout: moving from develop to styles
+a9eca31 HEAD@{10}: checkout: moving from images to develop
+78d9498 HEAD@{11}: commit: add images source to index.html
+0821a40 HEAD@{12}: commit: add image.png
+a9eca31 HEAD@{13}: checkout: moving from develop to images
+a9eca31 HEAD@{14}: commit: add index.html
+0e11d65 HEAD@{15}: checkout: moving from master to develop
+0e11d65 HEAD@{16}: commit (initial): init
