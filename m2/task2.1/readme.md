@@ -31,3 +31,26 @@
      ![inport_vm](./assets/import_vm.png)
 2. Configuration of VM.
    - connect usb, configure a shared folder (2.1-2.3)
+     - grab usb storage
+     ![usb1](./assets/usb1.png)
+     - mount storage in vm
+     ![usb2](./assets/usb2.png)
+     - storage in host
+     ![usb3](./assets/usb3.png)
+     - add shared folder
+     ![shared1](./assets/shared1.png)
+     - mount dir in vm
+     ![shared2](./assets/shared2.png)
+     - ls on host
+     ![shared3](./assets/shared3.png)
+   - Check the connection between VM1, VM2, Host, Internet for different network modes
+
+    | Mode         | VM-->Host | VM<--Host | VM1<->VM2 | VM-->Net(google.com) |
+    | -----------: | :-------: | :-------: | :-------: | :------------------: |
+    |  NAT         |     +     |      -    |     -     |       -              |
+    | Bridged      |     +     |      +    |      +    |        +             |
+    | Internal     |     -     |      -    |    +      |       -              |
+    | Host-only    |     -     |      +    |      +    |        -             |
+    |  NAT network |     +     |      -    |      +    |        +             |
+
+3. Work with cli
