@@ -1,0 +1,2 @@
+
+/bin/sh -c 'hname=$(hostname) && page="<html> <head> <title>Epam devops test app</title><body><h1>Epam devops test app</h1> <h2>Hi</h2> <p>Your application is now running on a container in Amazon ECS.</p><p>hostname: $hname</p></body></html>" && echo $page > /usr/local/apache2/htdocs/index.html && httpd-foreground'
