@@ -1,6 +1,17 @@
 # Task3.1
 
-1. Create lab in Cisco Packet Tracer
+## Create lab in Cisco Packet Tracer
+
+- Created three networks: home office, data center, enterprise.
+  - Enterprise network: 10.89.23.0/24
+  - home office: 192.168.0.0/24
+  - data center: 12.23.89.0/24
+
+- Checked network connectivity with ping:
+
+![ping1](assets/ping1.png)
+![ping2](assets/ping2.png)
+![ping3](assets/ping3.png)
 
 ## Additional task. Viewed the packet structure using the Wireshark
 
