@@ -33,7 +33,7 @@ Again, I checked the connection between the servers with `ping` command and the 
   - ip, mask
   - encapsulation dot1Q
 
-- On Web Server1, Web Server2 and DNS Server, specify the gateways addresses 12.23.89.1, 12.23.89.65 and 12.23.89.129, respectively.
+- On Web Server1, Web Server2 and DNS Server, specify the gateways addresses `12.23.89.1`, `12.23.89.65` and `12.23.89.129`, respectively.
 
 - Checked the connection between the servers with `ping` command and the packet route with `tracert`:
   - ![ping](assets/3.2.16.ping.png)
