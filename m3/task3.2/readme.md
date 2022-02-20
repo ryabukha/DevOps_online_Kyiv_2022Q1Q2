@@ -39,4 +39,6 @@ Again, I checked the connection between the servers with `ping` command and the 
   - ![ping](assets/3.2.16.ping.png)
   - ![tracert](assets/3.2.16.tracert.png)
 
-- File pkt: [task3.2.pkt](task3.2.pkt)
+## File pkt
+
+- [task3.2.pkt](task3.2.pkt)

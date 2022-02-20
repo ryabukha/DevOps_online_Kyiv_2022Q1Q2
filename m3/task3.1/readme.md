@@ -13,7 +13,9 @@
 ![ping2](assets/ping2.png)
 ![ping3](assets/ping3.png)
 
-- File pkt: [task3.1](task3.1.pkt)
+## File pkt
+
+- [task3.1](task3.1.pkt)
 
 ## Additional task. Viewed the packet structure using the Wireshark
 
