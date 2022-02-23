@@ -23,6 +23,12 @@
     - ![run](assets/13.1.png)
     - `curl`
     - ![curl](assets/13.2.png)
+    - I created repo:
+    - ![repo](assets/13.3.create_repo.png)
+    - I pushed image to repo:
+    - ![push](assets/13.4.push_image.png)
+    - and I checked to pull image:
+    - ![pull](assets/13.5.pull_image.png)
 
 14. I made an example "Hello, World!" with AWS Lambda.
 
